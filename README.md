@@ -29,7 +29,7 @@ then typed Y
 Then typed mysql and should get a access deny response 
 Then typed sudo mysql and should get mysql>
 
-#### To connect to workbench username 
+### To connect to workbench username 
 Typed create user 'Flakhii'@'%' identified by 'password'; (I used the same password as the azure password and created a new username from azure)
 Typed select user from mysql.user;
 Typed Grant all privileges on *.* to 'Flakhii'@'%' with grant option; 
