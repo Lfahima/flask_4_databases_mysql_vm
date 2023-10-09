@@ -17,7 +17,7 @@ I left everything at default in Monitoring, Advanced, and Tags tab.
 My price was set at 0.0207 USD/HR then hit create 
 I then navigated to the search bar on top center and searched Virtual machines, and clickled name of my new resource/instance created. 
 
-### MySQL Set-up 
+## MySQL Set-up 
 To connect my machine/instance to MySQL I basically followed all the steps professor Hants did during class 5. 
 I first went to Google Shell and in the terminal (black bottom part). 
 I typed ssh first then ssh fahimal@Ip Address (user name is whatever I used to set up instance found in connect the IP Adress is also there).
